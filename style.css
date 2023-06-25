@@ -1,0 +1,13 @@
+.square-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+  }
+  
+  .square {
+    width: 100px;
+    height: 100px;
+    background: rgb(0, 192, 89);
+    margin: 5px;
+  }
+  
